@@ -1,0 +1,295 @@
+
+.left-sidebar {
+  background-color: #025A68;
+  box-shadow: 0px 10px 60px 0px rgba(226, 236, 249, 0.50);
+  border-radius: 30px;
+}
+.hide-menu{
+  color:white
+}
+.select2-container .select2-selection--single .select2-selection__arrow b {
+    border-color: #adb5bd transparent transparent transparent;
+    border-width: 6px 6px 0 6px;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow b {
+    /* border-color: #888 transparent transparent transparent; */
+    border-style: solid;
+    /* border-width: 5px 4px 0 4px; */
+    height: 0;
+    left: 50%;
+    margin-left: -4px;
+    margin-top: -2px;
+    position: absolute;
+    top: 50%;
+    width: 0;
+}
+.tableColrset {
+background-color: #415164;
+color: #fff,
+}
+span.text-danger,.text-success {
+    margin-left: 30px;
+}
+.imgset img{
+    margin-right: 10px;
+}
+
+
+.heading,
+.id-big-heading {
+  color: yellow;
+}
+
+.show-details {
+  border: 1px solid rgb(80, 125, 248);
+  color: lightblue;
+  background: transparent;
+}
+
+.id-small-heading {
+  display: none;
+}
+
+@media (max-width: 425px) {
+  .id-small-heading {
+    display: inline-block;
+    color: yellow;
+  }
+  .id-big-heading {
+    display: none;
+  }
+}
+.sorted-entries {
+  color: black;
+}
+.sorted-entries-id {
+  color: blue;
+}
+
+.heading {
+  color: yellowgreen;
+}
+
+.search-input-field {
+  border: 2px solid rgb(137, 151, 233);
+  border-radius: 5px;
+  text-align: center;
+  color: blue;
+}
+.search-input-field:focus {
+  border: 2px solid rgb(136, 226, 155);
+}
+.search {
+  text-align: center;
+}
+.search-block {
+  background-color: rgb(93, 102, 110);
+}
+.search-heading {
+  color: rgb(239, 241, 88);
+  text-shadow: 2px 1px rgb(43, 41, 41);
+  font-family: "Lobster", cursive;
+}
+
+a.pageno-description {
+  color: lightcoral;
+  text-align: center;
+}
+a.prev-next-buttons {
+  background-color: lightgreen;
+}
+a.prev-next-buttons:hover {
+  background-color: lightgreen;
+}
+a.page-numbers {
+  background-color: lightgray;
+}
+a.page-numbers:active {
+  background-color: lightskyblue;
+}
+
+.setline {
+  display: flex;
+  justify-content: start; 
+  margin-top: 25px;
+}
+
+.links-container {
+  display: flex;
+}
+
+.setline a {
+
+  margin-inline-start: auto;
+  color: #292D32; /* Change to your preferred default link color */
+  padding: 5px; /* Adjust the padding as needed */
+  font-size: 14px;
+  font-weight: 400;
+/* line-height: normal; */
+/* letter-spacing: 0.14px; */
+font-family: 'Poppins', sans-serif;
+text-decoration: none;
+padding-bottom: 15px; /* Adjust the padding to increase spacing between text and underline */
+border-bottom: 2px solid #292D32; /* Set the underline style here (e.g., red and solid) */
+/* text-shadow: -1px -1px 0 #FAB005, 1px -1px 0 #FAB005, -1px 1px 0 #FAB005, 1px 1px 0 #000; Add a text stroke with a shadow effect */
+}
+
+.setline a.active {
+  color:#FAB005; /* Red color when link is active */
+ 
+  padding-bottom: 10px; /* Adjust the padding for the active link */
+  border-bottom: 2px double #FAB005;
+}
+.addleadset{
+  margin:0px  20px 13px 6px;
+}
+
+li button {
+  background-color: #FAB005 !important;
+  margin: 2px 3px 4px;
+  color: w;
+  color: white!important;
+}
+input.search {
+  height: 38px;
+  width: 206px;
+  background-color: #FFF;
+  border-radius: 12px;
+  box-shadow: 0px 10px 60px 0px rgba(226, 236, 249, 0.50);
+}
+
+i.fas.fa-search {
+    position: absolute;
+    top: 14px;
+    left: 16px;
+}
+.allleardsearch {
+  position: relative;
+  margin-top: 20px;
+
+}
+.red-text {
+  color: red;
+}
+
+
+h4.mb-0 {
+  margin: 30px;
+}
+.radflex{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
+}
+.setradio{
+  margin-right: 10px;
+}
+
+.nav-pills .nav-link {
+  display: flex;
+  padding: 10px;
+}
+.nav-pills .nav-link {
+  border-radius: var(--bs-nav-pills-border-radius);
+}
+details {
+  padding: 0.5rem;
+  width: -webkit-fill-available;
+}
+*, ::after, ::before {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.setQuotation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav-link {
+  position: relative;
+}
+
+.plus-icon {
+  position: absolute;
+  right: 10px;
+  margin-left: auto
+}
+.wizard-content .wizard .actions ul li button {
+  background: #5d87ff !important;
+}
+.wizard-content .wizard>.actions>ul>li>button {
+  /* background: #615dff; */
+  color: #fff;
+  display: block;
+  padding: 7px 12px;
+  border-radius: 4px;
+  border: 1px solid transparent;
+}
+/* select */
+@media (min-width: 768px){
+    .col-md-12 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 auto;
+        flex: 0 0 auto;
+        width: 100%;
+    }
+
+}
+
+
+/* tr.tableColrset th {
+    background-color: #415164 !important;
+    color: #fff!important;
+} */
+
+
+/* neww */
+
+/* Add your existing styles here */
+
+/* Style for the value box */
+.value-box {
+  display: flex;
+  align-items: center;
+  border: 1px solid #ccc;
+  padding: 5px;
+  margin: 5px 0;
+  background-color: #f5f5f5;
+}
+
+/* Style for the value text */
+.value-text {
+  flex: 1;
+  margin-right: 10px;
+}
+
+/* Style for the delete icon */
+.delete-icon {
+  cursor: pointer;
+  color: red;
+}
+.sec10Img{
+  height: 160px;
+  width:640px;
+}
+.centered-container {
+  display: flex;
+  justify-content: center; /* Horizontally center */
+  align-items: center; /* Vertically center */
+  height: 100vh; /* Adjust the height to center within the viewport */
+}
+.btn.btn-outline-success.editIcon{
+  font-size: 12px;
+  margin: 5px;
+  padding: 3px 5px;
+}
+.btn.btn-outline-danger.editIcon{
+  font-size: 12px;
+  margin: 5px;
+  padding: 3px 5px;
+}
+h3.text-center {
+  font-size: 20px;
+}

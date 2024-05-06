@@ -1,0 +1,534 @@
+@media (max-width: 1399.98px) {
+  .postgrad h3 {
+    font-size: 31px;
+  }
+  .jobbox div h4 {
+    padding: 13px 13px 13px 0px;
+  }
+}
+@media (max-width: 1199.98px) {
+  .findiv {
+    padding-left: 20px;
+  }
+
+  .postgrad h3 {
+    font-size: 26px;
+  }
+  .postgrad h4 {
+    font-size: 25px;
+  }
+  .partn h3 {
+    font-size: 35px;
+  }
+  .fadiv h3 {
+    font-size: 35px;
+  }
+  .progmain {
+    height: 460px;
+  }
+  .trans-heading {
+    font-size: 35px;
+  }
+
+  .arndtitle {
+    font-size: 35px;
+  }
+  .ques-heading {
+    font-size: 30px;
+  }
+  .addr-box {
+    padding: 20px 10px;
+  }
+  .propad {
+    margin-top: 33px;
+    margin-bottom: 10px;
+  }
+  .jobbox2 div h4 {
+    padding: 0;
+    margin-bottom: 0;
+    padding-right: 9px;
+  }
+  .certified-sec {
+    background-position: initial;
+    height: 595px;
+  }
+  .cerpdg {
+    margin-top: 30px;
+  }
+  .jobbox2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .willbox h3 {
+    font-size: 34px;
+    margin: 25px 0;
+    text-align: center;
+  }
+
+  .willbox p {
+    font-size: 20px;
+    line-height: 33px;
+    text-align: center;
+    margin-bottom: 45px;
+  }
+  .certified-sec {
+    background-position: initial;
+    height: 410px;
+  }
+  .circleout {
+    width: 409px;
+    height: 409px;
+  }
+  .circlein {
+    width: 380px;
+    height: 380px;
+  }
+  .instaltabdiv {
+    height: auto;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .nav-sec {
+    width: 100%;
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+  }
+
+  .topnavdiv {
+    width: 100%;
+    padding: 0;
+  }
+  .marnav {
+    padding: 0;
+  }
+  .mainnav {
+    border-radius: 0;
+    margin: 0;
+    width: 100%;
+  }
+  .marg-anchr {
+    margin: 0 10px;
+  }
+  .jobbox div h4 {
+    padding: 5px 0px 5px 0px;
+  }
+  .navbar-light .navbar-toggler {
+    color: white;
+    border-color: white !important;
+    border: 2px solid #4c7d8e !important;
+  }
+  .navbar-toggler {
+    padding: 0.25rem 0.75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: white;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    transition: box-shadow 0.15s ease-in-out;
+  }
+  .progmain {
+    height: 420px;
+  }
+  .tabsec-curricullam {
+    margin-top: 0;
+  }
+  .ques-heading {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .phn-bx {
+    text-align: center;
+  }
+  .certified-sec {
+    background-position: initial;
+    height: 592px;
+  }
+  .indepthbx {
+    margin-bottom: 48px;
+  }
+  .stories-sec {
+    padding-top: 25px;
+    padding-bottom: 35px;
+  }
+  .centerdiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 25px;
+  }
+  .circlein h4 {
+    font-size: 35px;
+  }
+  .circlein h6 {
+    font-size: 25px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .fadiv h3 {
+    font-size: 28px;
+  }
+  .fadiv p {
+    font-size: 16px;
+  }
+  .partn h3 {
+    font-size: 28px;
+    margin-bottom: 18px;
+  }
+  .partn h6 {
+    font-size: 20px;
+    margin-bottom: 0;
+  }
+  .hiring-sec {
+    padding-top: 35px;
+    padding-bottom: 15px;
+  }
+
+  .jobbox div h4 {
+    padding: 10px 20px;
+  }
+  .findiv {
+    padding-left: 12px;
+    margin-bottom: 35px;
+  }
+  .progmain {
+    height: auto;
+  }
+  .regr-nowdiv {
+    margin: 10px;
+  }
+  .trans-heading {
+    font-size: 28px;
+  }
+  .car-trans-sec {
+    padding-top: 25px;
+    padding-bottom: 30px;
+  }
+  .million-learner-sec {
+    padding-top: 28px;
+    padding-bottom: 28px;
+  }
+  .arndtitle {
+    font-size: 28px;
+  }
+  .ques-heading {
+    font-size: 28px;
+    text-align: center;
+  }
+  #customers-testimonials .item {
+    padding-top: 18px;
+  }
+  .willbox h3 {
+    font-size: 28px;
+    margin: 25px 0;
+  }
+  .willbox p {
+    font-size: 16px;
+    line-height: 30px;
+    margin-bottom: 35px;
+  }
+  .learningdiv h3 {
+    font-size: 28px;
+    text-align: center;
+  }
+  .adms p {
+    font-size: 16px;
+  }
+  .adms {
+    margin-top: 38px;
+  }
+  .circleout {
+    width: 300px;
+    height: 300px;
+  }
+  .circlein {
+    width: 280px;
+    height: 280px;
+  }
+  .circlein h6 {
+    font-size: 22px;
+  }
+  .circlein h4 {
+    font-size: 26px;
+  }
+  .circlein p {
+    font-size: 16px;
+  }
+  .circlein a {
+    margin-top: 0;
+  }
+  .installment-sec {
+    padding-top: 25px;
+    padding-bottom: 35px;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .fadiv h3 {
+    font-size: 24px;
+  }
+  .partn h3 {
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  .partn h6 {
+    font-size: 18px;
+  }
+
+  .d-order-flexcard2 {
+    display: flex;
+    justify-content: center;
+    row-gap: 3px;
+    flex-direction: column;
+    align-items: center;
+  }
+  .d-order-flexcard2 div h6 {
+    font-size: 23px;
+  }
+  .mtop-mr2 {
+    margin-top: 0;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .banner-sec {
+    padding-top: 20px;
+    padding-bottom: 55px;
+  }
+  .postgrad h3 {
+    font-size: 23px;
+  }
+  .postgrad h4 {
+    font-size: 21px;
+  }
+  .jobbox div h4 {
+    padding: 0;
+  }
+  .placement-sec {
+    padding-bottom: 10px;
+  }
+  .cardplacement {
+    padding: 10px 10px;
+    width: 80%;
+    margin: -55px auto 20px auto;
+  }
+  .reg-btn {
+    font-size: 16px;
+  }
+  .program-sec {
+    padding-top: 35px;
+    padding-bottom: 25px;
+  }
+  .trans-heading {
+    font-size: 24px;
+  }
+  .car-trans-sec {
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+  .sucrate h3 {
+    font-size: 20px;
+  }
+  .sucrate p {
+    font-size: 16px;
+  }
+  .downrep-btn {
+    font-size: 16px;
+  }
+  .thoubox {
+    width: 100%;
+    margin: 10px auto 20px auto;
+  }
+  .arndtitle {
+    font-size: 24px;
+  }
+  .ques-heading {
+    font-size: 24px;
+    margin-bottom: 30px;
+  }
+  .willbox h3 {
+    font-size: 24px;
+    margin: 20px 0;
+  }
+  .learningdiv h3 {
+    font-size: 24px;
+  }
+  .grow-sec {
+    padding: 22px 0;
+  }
+  .stories-sec {
+    padding-top: 12px;
+  }
+  .termsbefore:before {
+    display: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .fadiv h3 {
+    font-size: 22px;
+  }
+  .fadiv p {
+    font-size: 15px;
+  }
+  .partn h3 {
+    font-size: 22px;
+  }
+  .partn h6 {
+    font-size: 17px;
+  }
+  .d-order-flexcard2 div h6 {
+    font-size: 20px;
+  }
+  .findiv {
+    padding-left: 0;
+    margin-bottom: 20px;
+  }
+  .postgrad h3 {
+    font-size: 20px;
+  }
+  .postgrad h4 {
+    font-size: 19px;
+  }
+  .postgrad h5 {
+    font-size: 14px;
+  }
+  .jobbox {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .jobbox div h4 {
+    padding: 5px;
+  }
+  .brdr-rt {
+    border: none;
+  }
+  .navbar-toggler {
+    padding: 0 4px;
+  }
+  .trans-heading {
+    font-size: 22px;
+  }
+  .arndtitle {
+    font-size: 22px;
+    padding-top: 0;
+    padding-bottom: 24px;
+  }
+  .curpdg {
+    padding-top: 4px;
+    padding-bottom: 15px;
+  }
+  .mypilltabdiv .nav-pills .nav-link {
+    margin: 3px 0;
+  }
+  .ques-heading {
+    font-size: 22px;
+    margin-bottom: 30px;
+  }
+  .addr-box .form-control {
+    font-size: 14px;
+  }
+  .addr-box input {
+    margin-bottom: 15px;
+  }
+  .fachead {
+    font-size: 21px;
+  }
+
+  .jobbox2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .willbox h3 {
+    font-size: 22px;
+    margin: 20px 0;
+  }
+  .certified-sec {
+    background-position: initial;
+    height: 655px;
+  }
+  .learningdiv h3 {
+    font-size: 22px;
+  }
+  .indepthbx p {
+    font-size: 15px;
+  }
+  .indepthbx {
+    margin-bottom: 25px;
+  }
+  .adms p {
+    font-size: 15px;
+    font-weight: 500;
+  }
+  .intalment-tablediv table tbody tr th {
+    font-size: 14px;
+  }
+  .intalment-tablediv table tbody tr td {
+    font-size: 14px;
+  }
+  .Social-media a {
+    height: 26px;
+    width: 25px;
+    margin: 0 2px;
+  }
+  .manu {
+    margin-left: 20px;
+  }
+  .footer .foot-po ul li a {
+    font-size: 15px;
+  }
+  .footer .foot-po ul li {
+    padding-bottom: 0;
+  }
+  .footer .foot-po {
+    margin-top: 8px;
+  }
+  .pp-flex a {
+    padding: 5px 5px;
+    margin: 5px 1px;
+    font-size: 12px;
+  }
+}
+@media (max-width: 365px) {
+  .banner-sec {
+    padding-top: 10px;
+  }
+  .brc-pd {
+    padding: 5px 8px;
+  }
+  .nsoft {
+    font-size: 13px;
+  }
+  .fachead {
+    font-size: 20px;
+  }
+  .certified-sec {
+    background-position: initial;
+    height: 665px;
+  }
+  .indepthbx p {
+    font-size: 14px;
+  }
+  .off-flex {
+    column-gap: 2px;
+  }
+  .h-off {
+    font-size: 0px;
+  }
+}
+
+@media (max-width: 340px) {
+  .arndtitle {
+    font-size: 20px;
+  }
+  .certified-sec {
+    background-position: initial;
+    height: 682px;
+  }
+}
+
+
